@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-class LinearRegressor():
+class LinearRegressor:
     
     def __init__(self,
                  random_state=0,
